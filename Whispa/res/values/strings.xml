@@ -4,5 +4,6 @@
     <string name="app_name">Whispa</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <color name="background_color">#35586C</color>
 
 </resources>

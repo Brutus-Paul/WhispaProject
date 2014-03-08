@@ -22,6 +22,13 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        
+        <activity
+            android:name = "com.kibi.whispa.AddFriendActivity" />
+        
+        <activity 
+            android:name = "com.kibi.whispa.ViewFriendsActivity" />
+        
     </application>
 
 </manifest>
