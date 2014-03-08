@@ -22,7 +22,7 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="phone"
-        android:hint="@string/hint1" />
+        android:hint="@string/num_hint" />
 
     <Button
         android:id="@+id/button1"

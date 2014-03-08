@@ -5,8 +5,8 @@
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
     <color name="background_color">#35586C</color>
-    <string name="hint1">Friend's name</string>
-    <string name="number_hint">Friend's number</string>
     <string name="button1_string">Add</string>
+    <string name="name_hint">Name</string>
+    <string name="num_hint">Number</string>
 
 </resources>
