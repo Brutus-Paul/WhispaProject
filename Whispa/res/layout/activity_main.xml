@@ -24,4 +24,13 @@
         android:layout_marginTop="22dp"
         android:text="Button" />
 
+    <ToggleButton
+        android:id="@+id/toggleButton1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/button1"
+        android:layout_marginTop="132dp"
+        android:layout_toRightOf="@+id/button1"
+        android:text="ToggleButton" />
+
 </RelativeLayout>
